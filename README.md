@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Trung Kien! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Ngoc Huyen Duong Thi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
     <h3 align="center" font-size-"23">Technologies and Tools <img src="https://media.giphy.com/media/ujeTx8j89bvzCfOH38/giphy.gif" width="50"></h3>
 <br>
 <div align="center">
